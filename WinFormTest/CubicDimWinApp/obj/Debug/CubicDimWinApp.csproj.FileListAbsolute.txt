@@ -1,0 +1,10 @@
+C:\WinFormTest\CubicDimWinApp\bin\Debug\CubicDimWinApp.exe.config
+C:\WinFormTest\CubicDimWinApp\bin\Debug\CubicDimWinApp.exe
+C:\WinFormTest\CubicDimWinApp\bin\Debug\CubicDimWinApp.pdb
+C:\WinFormTest\CubicDimWinApp\obj\Debug\CubicDimWinApp.csprojAssemblyReference.cache
+C:\WinFormTest\CubicDimWinApp\obj\Debug\CubicDimWinApp.Properties.Resources.resources
+C:\WinFormTest\CubicDimWinApp\obj\Debug\CubicDimWinApp.csproj.GenerateResource.cache
+C:\WinFormTest\CubicDimWinApp\obj\Debug\CubicDimWinApp.csproj.CoreCompileInputs.cache
+C:\WinFormTest\CubicDimWinApp\obj\Debug\CubicDimWinApp.exe
+C:\WinFormTest\CubicDimWinApp\obj\Debug\CubicDimWinApp.pdb
+C:\WinFormTest\CubicDimWinApp\obj\Debug\CubicDimWinApp.Form1.resources
